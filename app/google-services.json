@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250142055581",
+    "project_id": "inacap-camilin",
+    "storage_bucket": "inacap-camilin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250142055581:android:a3ed4b1d3eff9328710874",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250142055581-h88q77qm30rsf67sarb5fapim18un8kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBvIlAA0KarbBHmEZmDO7hMTA9nhrZqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250142055581-h88q77qm30rsf67sarb5fapim18un8kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
